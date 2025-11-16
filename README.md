@@ -4,71 +4,71 @@ Empowering Law Enforcement with Intelligent Insights
 
 🔍 Project Overview
 
-Crimenet RAG AI is a cutting-edge AI-powered investigation assistant designed to enhance crime analysis and investigative efficiency. By combining Retrieval-Augmented Generation (RAG) with a Local Large Language Model (Ollama) and vector databases, it helps investigators:
-
-Connect complex information across multiple cases
-
-Generate actionable insights automatically
-
-Search large datasets semantically in seconds
-
-Ensure privacy and offline operation
-
-This tool empowers law enforcement, cybersecurity teams, and private investigators to identify patterns, predict potential threats, and make informed decisions faster.
+      Crimenet RAG AI is a cutting-edge AI-powered investigation assistant designed to enhance crime analysis and investigative efficiency. By combining Retrieval-Augmented Generation (RAG) with a Local Large         Language Model (Ollama) and vector databases, it helps investigators:
+      
+      Connect complex information across multiple cases
+      
+      Generate actionable insights automatically
+      
+      Search large datasets semantically in seconds
+      
+      Ensure privacy and offline operation
+      
+      This tool empowers law enforcement, cybersecurity teams, and private investigators to identify patterns, predict potential threats, and make informed decisions faster.
 
 🏆 Key Features
 
-🔗 Case & Evidence Linking: Automatically correlate suspects, evidence, and cases
-
-🤖 AI-Driven Recommendations: Generate actionable investigative insights
-
-⚡ High-Speed Search: Perform semantic retrieval across extensive crime data
-
-🔒 Local AI Processing: No dependency on internet; maintains data confidentiality
-
-📊 Scalable Architecture: Can handle growing datasets and real-time updates
+      🔗 Case & Evidence Linking: Automatically correlate suspects, evidence, and cases
+      
+      🤖 AI-Driven Recommendations: Generate actionable investigative insights
+      
+      ⚡ High-Speed Search: Perform semantic retrieval across extensive crime data
+      
+      🔒 Local AI Processing: No dependency on internet; maintains data confidentiality
+      
+      📊 Scalable Architecture: Can handle growing datasets and real-time updates
 
 🌐 Real-World Applications
 
-👮 Law Enforcement: Quickly identify patterns and connections between cases
-
-💻 Cybersecurity & Fraud Analysis: Detect cyber threats, phishing attacks, and digital crimes
-
-🕵️‍♂️ Private Investigations: Support independent investigations with AI-powered research
-
-📈 Predictive Policing: Identify high-risk locations and potential suspects based on historical trends
-
+      👮 Law Enforcement: Quickly identify patterns and connections between cases
+      
+      💻 Cybersecurity & Fraud Analysis: Detect cyber threats, phishing attacks, and digital crimes
+      
+      🕵️‍♂️ Private Investigations: Support independent investigations with AI-powered research
+      
+      📈 Predictive Policing: Identify high-risk locations and potential suspects based on historical trends
+         
 🚀 Advantages
 
-🌟 Offline AI Processing ensures privacy and data security
-
-🌟 Flexible Integration with vector databases for fast semantic searches
-
-🌟 Scalable & Future-Ready: Easily expand to handle new datasets or real-time feeds
-
-🌟 Efficiency & Accuracy: Reduces manual analysis and human error
-
-🌟 Resume-Worthy Implementation: Cutting-edge AI/ML solution for professional projects
+      🌟 Offline AI Processing ensures privacy and data security
+      
+      🌟 Flexible Integration with vector databases for fast semantic searches
+      
+      🌟 Scalable & Future-Ready: Easily expand to handle new datasets or real-time feeds
+      
+      🌟 Efficiency & Accuracy: Reduces manual analysis and human error
+      
+      🌟 Resume-Worthy Implementation: Cutting-edge AI/ML solution for professional projects
 
 🛠 Tech Stack
 
-🧠 AI / LLM: Ollama (Local Large Language Model for offline reasoning)
-
-📚 RAG Framework: Retrieval-Augmented Generation for knowledge retrieval and inference
-
-💾 Database: Vector Database for fast semantic search
-
-🐍 Backend: Python, FastAPI (or Flask)
+      🧠 AI / LLM: Ollama (Local Large Language Model for offline reasoning)
+      
+      📚 RAG Framework: Retrieval-Augmented Generation for knowledge retrieval and inference
+      
+      💾 Database: Vector Database for fast semantic search
+      
+      🐍 Backend: Python, FastAPI (or Flask)
 
 🌱 Future Development
 
-🔹 Frontend Dashboard: Visual analytics and interactive investigation tools
-
-🔹 Real-Time Crime Feed Integration: Continuously updated intelligence
-
-🔹 Enhanced Predictive Models: Using historical crime patterns and AI learning
-
-🔹 Cross-Platform Deployment: Mobile and desktop-ready AI investigation assistant
+      🔹 Frontend Dashboard: Visual analytics and interactive investigation tools
+      
+      🔹 Real-Time Crime Feed Integration: Continuously updated intelligence
+      
+      🔹 Enhanced Predictive Models: Using historical crime patterns and AI learning
+      
+      🔹 Cross-Platform Deployment: Mobile and desktop-ready AI investigation assistant
 
 📸 Demo
 
