@@ -1,4 +1,6 @@
-🌐 Crimenet RAG AI
+# 🌐 **Crimenet RAG AI** ![Python](https://img.shields.io/badge/Python-3.11-blue) ![AI](https://img.shields.io/badge/AI-LLM-green)
+### *AI-Powered Crime Investigation Assistant*
+
 
 🚀 Project Overview
 
