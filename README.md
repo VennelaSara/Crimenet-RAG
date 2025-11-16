@@ -1,5 +1,12 @@
 <div align="center"> 🌐 **Crimenet RAG AI** **AI-Powered Crime Investigation Assistant** Empowering law enforcement with intelligent, actionable insights </div>
 
+
+
+
+
+
+
+
 🔍 Project Overview
 
 Crimenet RAG AI is a state-of-the-art AI-powered investigation assistant designed to help law enforcement and security agencies analyze, connect, and predict criminal activities from multiple data sources.
