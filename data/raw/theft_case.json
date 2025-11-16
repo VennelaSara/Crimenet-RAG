@@ -1,0 +1,14 @@
+{
+  "case_id": "TC-119/2024",
+  "date": "05-06-2024",
+  "location": "Secunderabad Railway Colony",
+  "complainant": "Lakshmi Devi",
+  "incident": "A bicycle parked outside the complainant's residence was stolen at around 11:30 PM. CCTV shows a single individual wearing a red cap taking the cycle and escaping towards the main road.",
+  "suspect_details": {
+    "gender": "male",
+    "vehicle": "none",
+    "clothing": "red cap, grey shirt"
+  },
+  "loss_value": "₹4,500",
+  "sections": ["IPC 379"]
+}

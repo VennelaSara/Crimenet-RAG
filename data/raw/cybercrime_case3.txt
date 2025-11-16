@@ -1,0 +1,19 @@
+Case ID: CC-54/2024
+Date: 14-09-2024
+Cyber Crime Police Station: Hyderabad
+
+Complainant: Vijay Sharma, Age 38, Resident of Ameerpet.
+
+Incident Summary:
+Victim received a call from an unknown number claiming to be from a bank verification team. He was asked to share his OTP “to update KYC”.
+
+Within minutes, ₹78,000 was withdrawn from his account using three online transactions.
+
+Investigation Notes:
+• IP addresses traced to Chennai and Bengaluru.
+• Same mule bank account ending with 2310 found linked to two earlier fraud cases.
+• Telegram group “FastCash Support” suspected to coordinate scam.
+• Phone number used: +91 91234 88901.
+
+Offences:
+IT Act Section 66C, 66D
