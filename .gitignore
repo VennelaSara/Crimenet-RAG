@@ -1,16 +1,10 @@
-# Python
-__pycache__/
-*.pyc
-*.pyo
-*.pyd
-*.env
-*.venv
-
-# Virtual environment
+# Ignore virtual environments
 .venv/
 env/
 venv/
 
-# PyTorch cache
-*.pt
-*.pth
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
