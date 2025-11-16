@@ -1,113 +1,99 @@
-# 🌐 Crimenet RAG AI
-> **AI-Powered Crime Investigation Assistant**  
-> *Empowering investigators with intelligent, secure, and actionable insights*
+🌐 Crimenet RAG AI
 
----
+AI-Powered Crime Investigation Assistant
+Empowering investigators with intelligent, secure, and actionable insights.
 
-![Crimenet Badge](https://img.shields.io/badge/Crimenet-RAG%20AI-purple?style=for-the-badge&logo=ai)
-![Python](https://img.shields.io/badge/Python-3.11-blue?style=flat-square&logo=python)
-![FastAPI](https://img.shields.io/badge/FastAPI-0.95-green?style=flat-square&logo=fastapi)
-![Ollama](https://img.shields.io/badge/Ollama-Local%20LLM-orange?style=flat-square)
-![ChromaDB](https://img.shields.io/badge/ChromaDB-Vector%20Store-red?style=flat-square)
 
----
 
-## 🚨 Project Overview
-**Crimenet RAG AI** is a **state-of-the-art AI assistant** for crime investigations.  
-It combines **Retrieval-Augmented Generation (RAG)** with a **Local LLM (Ollama)** to help analysts and law enforcement:
 
-- ⚡ Quickly analyze and summarize crime cases  
-- 🔍 Detect patterns and trends across data  
-- 📊 Generate actionable insights efficiently  
 
-> **Goal:** Make investigations **faster, smarter, and more secure**.
 
----
 
-## 🌟 Core Features
 
-| Feature | Description | Badge |
-|---------|-------------|-------|
-| 🕵️ **Intelligent Case Analysis** | Analyze crime reports & detect patterns automatically | ![Analysis](https://img.shields.io/badge/Analysis-Intelligent-blue?style=flat-square) |
-| 📚 **RAG Knowledge Retrieval** | Retrieve context-aware insights from historical cases | ![RAG](https://img.shields.io/badge/RAG-Knowledge-purple?style=flat-square) |
-| 🖥️ **Local LLM Integration** | Ollama runs offline, ensuring **data privacy** | ![Offline](https://img.shields.io/badge/Offline-Private-green?style=flat-square) |
-| 🔎 **Query & Search** | Search past cases & cross-reference evidence | ![Search](https://img.shields.io/badge/Search-Fast-orange?style=flat-square) |
-| ⚙️ **Scalable & Modular** | Add AI modules or integrations easily | ![Modular](https://img.shields.io/badge/Modular-Extendable-red?style=flat-square) |
+📌 Table of Contents
 
----
+Project Overview
 
-## 🌐 Real-World Applications
+Demo
 
-- **Law Enforcement:** Reduce investigation time and enhance decisions  
-- **Crime Analytics Teams:** Detect trends, predict hotspots  
-- **Legal & Research Teams:** Summarize cases & extract key insights  
-- **Education & Training:** Train investigators with AI simulations  
+Core Features
 
----
+Real-World Applications
 
-## ⚙️ Technology Stack
+Advantages
 
-- **Backend:** Python, FastAPI  
-- **AI Engine:** Local LLM (Ollama) + RAG  
-- **Database:** Lightweight local storage (JSON/CSV based)  
-- **Embedding Storage:** ChromaDB  
-- **Frontend:** (Future) React/Next.js recommended  
-- **Other Tools:** LangChain for AI orchestration  
+Future Development
 
----
+Tech Stack
 
-## 🚀 Advantages
+Installation & Setup
 
-> **Why Crimenet RAG AI stands out:**
+Contributing
 
-- ✅ Offline AI Processing – no cloud dependency  
-- ✅ Data Privacy – everything stays local  
-- ✅ Fast Insights – AI-assisted analysis  
-- ✅ Modular & Extendable – easy future upgrades  
+License
 
----
+💡 Project Overview
+<div style="background-color:#f0f8ff; padding:15px; border-radius:10px;"> **Crimenet RAG AI** is a **Retrieval-Augmented Generation (RAG)** system that leverages a **Local LLM (Ollama)** to analyze crime data and provide context-aware insights. It is designed to support law enforcement agencies in solving crimes faster, with AI-driven intelligence and secure offline processing. </div>
+🎬 Demo
 
-## 🔮 Future Development
+Interactive AI queries
 
-- 🟢 Interactive **visual dashboards**  
-- 🟢 Real-time **crime pattern alerts**  
-- 🟢 Multi-database integration for **national crime data**  
-- 🟢 Advanced NLP for **unstructured text analysis**  
-- 🟢 Speech-to-text support for **rapid incident logging**
+Instant case retrieval and analysis
 
----
+Visual insights for law enforcement
 
-## 💻 Getting Started
+🚀 Core Features
+<div style="background-color:#fff0f5; padding:15px; border-radius:10px;"> **1️⃣ Intelligent Case Analysis** – Summarizes and detects patterns in crime reports.
 
-1. Clone the repository:
-```bash
+2️⃣ RAG Knowledge Retrieval – Finds relevant historical cases for informed decision-making.
+
+3️⃣ Local LLM (Ollama) – Processes queries offline for secure, private operations.
+
+4️⃣ Interactive Query Interface – Ask natural language questions and get precise, actionable responses.
+
+5️⃣ Extensible Architecture – Easy to add new knowledge sources or LLM models in the future.
+
+</div>
+🌍 Real-World Applications
+<div style="background-color:#f5fff0; padding:15px; border-radius:10px;"> - Assisting law enforcement in **solving crimes faster** - Detecting **patterns in criminal behavior** - Supporting **legal investigations** with AI-powered insights - Enabling **data-driven crime prevention strategies** </div>
+⭐ Advantages
+<div style="background-color:#fffaf0; padding:15px; border-radius:10px;"> - ⚡ **Fast & Accurate:** AI delivers insights in seconds - 🔒 **Secure & Private:** Fully offline, using Ollama Local LLM - 📈 **Scalable:** Handles large datasets and integrates with future databases - 👨‍💻 **User-Friendly:** Minimal learning curve for investigators - 🛠 **Customizable:** Extendable knowledge sources & AI modules </div>
+🔮 Future Development
+<div style="background-color:#f0fff5; padding:15px; border-radius:10px;"> - Web-based **frontend** for better visualization and interaction - Support for **multiple local LLMs** and vector databases - Automated **case report generation** - Real-time **predictive crime analysis** - Integration with **public crime datasets** for broader analysis </div>
+🛠 Tech Stack
+<div style="background-color:#fff0f5; padding:15px; border-radius:10px;"> - **Backend:** Python - **AI/ML:** Retrieval-Augmented Generation (RAG), Ollama Local LLM - **Database:** Custom local storage (no SQLite) - **Libraries & Tools:** NLP, vector similarity search, Python data processing </div>
+⚡ Installation & Setup
+# Clone the repository
 git clone https://github.com/VennelaSara/Crimenet-RAG.git
+
+# Navigate into the backend folder
 cd crimenet-ai/backend
-Install dependencies:
 
-bash
-Copy code
+# Create a virtual environment (optional)
+python -m venv .venv
+source .venv/bin/activate  # Linux/macOS
+.venv\Scripts\activate     # Windows
+
+# Install dependencies
 pip install -r requirements.txt
-Start the backend server:
 
-bash
-Copy code
-python main.py
-Access the API or integrate with frontend for queries.
+# Start the backend
+python src/main.py
 
-📂 Project Structure
-powershell
-Copy code
-crimenet-ai/
-│
-├── backend/           # API & AI logic
-├── data/              # Crime reports & embeddings
-├── docs/              # Documentation & diagrams
-├── requirements.txt   # Dependencies
-└── README.md          # Project overview
-✨ Contact & Contributions
-Author: Vennela Sara
+🤝 Contributing
 
-GitHub: https://github.com/VennelaSara
+We welcome contributions!
 
-Contributions welcome! Open issues or pull requests for suggestions.
+Fork the repository
+
+Create a new branch (git checkout -b feature/new-feature)
+
+Commit your changes (git commit -m "Add feature")
+
+Push to the branch (git push origin feature/new-feature)
+
+Open a Pull Request
+
+📜 License
+
+MIT License © 2025 VennelaSara
