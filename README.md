@@ -1,6 +1,6 @@
-🌐 Crimenet RAG AI
-
+🌐 CRIMENET RAG AI
 AI-Powered Crime Investigation Assistant
+
 Empowering Law Enforcement with Intelligent, Actionable Insights
 
 🔍 Project Overview
